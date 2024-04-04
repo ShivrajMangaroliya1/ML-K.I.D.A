@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/Lib
+.idea
+.venv
+db.sqlite3
+User/migrations
+__pycache__/
+output.mp4
+videos/
